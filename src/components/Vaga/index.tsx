@@ -1,3 +1,4 @@
+import React from 'react'
 import styles from './Vaga.module.css'
 
 type Props = {
